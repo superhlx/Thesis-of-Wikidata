@@ -1,1 +1,3 @@
 # Thesis-of-Wikidata
+
+2025/1/24 Installed GF on WSL2. Learned some basic syntax of SPARQL.
